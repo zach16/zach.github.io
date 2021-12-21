@@ -8,3 +8,4 @@
 ![iStock-1014903134-scaled](https://user-images.githubusercontent.com/19169702/146886490-f13b2f69-b398-4565-acb9-5ef4f8cb267d.jpg)
 ![picture_eateries_one](https://user-images.githubusercontent.com/19169702/146887076-e8fef598-f027-4eca-bdea-5323754aaedc.jpg)
 ![eyestetix-studio-_rqDHdrKIJs-unsplash](https://user-images.githubusercontent.com/19169702/146887346-c29ac2db-fd0c-4c97-94b8-073a4e452e85.jpg)
+![picture_aerial_view_kuantan_one](https://user-images.githubusercontent.com/19169702/146887683-48d70749-21ba-44a6-8b34-464ec9bc617a.jpg)
