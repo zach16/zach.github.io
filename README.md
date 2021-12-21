@@ -10,3 +10,4 @@
 ![picture_aerial_view_kuantan_one](https://user-images.githubusercontent.com/19169702/146887683-48d70749-21ba-44a6-8b34-464ec9bc617a.jpg)
 ![picture_aerial_view_kuantan_one](https://user-images.githubusercontent.com/19169702/146888254-678fd13e-2048-42b0-bcec-4978abee958d.jpg)
 ![picture_friends_itm_kuantan](https://user-images.githubusercontent.com/19169702/146889055-18b4a9c0-794c-40cd-b17b-7beaacdb4dbc.jpg)
+![favicon-32x32](https://user-images.githubusercontent.com/19169702/146889438-a220463f-00cb-4103-b131-3b0b44578d46.png)
