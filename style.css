@@ -20,24 +20,13 @@ html {
     scroll-padding-top: var(--top-spacing);
 }
 
+
 .welcome {
     text-align: center;
     font-style: italic;
     color: #008000;
 }
 
-/* .nav-item {
-    overflow: hidden;
-    background-color: #09689E;
-    margin-bottom: 50px;
-    width: 100%;
-    color: #fff; */
-    /* position:-webkit-sticky; */
-    /* position: sticky; */
-    /* display: block; */
-    /* top:0px; */
-    /* transition: top 0.3s; */
-/* } */
 
 nav a {
     float: right;
@@ -45,7 +34,6 @@ nav a {
     color: #fff;
     font-size: 18px;
     padding: 20px 30px;
-    /* display: inline-block; */
     transition: all 0.5s ease 0s;
 }
 
@@ -56,10 +44,11 @@ nav a:hover {
 
 .aside-left {
     background-color: #33b5e5;
-    padding: 20px;
-    margin-left: 10px;
+    padding: 40px;
+    margin-left: 60px;
+    border-right: 4px;
     color: #ffffff;
-    text-align: center;
+    text-align: justify;
     font-size: 14px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
     transition: all .2s ease-in-out;
@@ -70,16 +59,6 @@ nav a:hover {
     cursor: pointer;
 }
 
-.aside-right {
-    background-color: #33b5e5;
-    padding: 15px;
-    color: #ffffff;
-    text-align: center;
-    font-size: 14px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-    transition: all .2s ease-in-out;
-}
-
 .aside-right:hover {
     transform: scale(1.1);
     cursor: pointer; 
@@ -87,8 +66,7 @@ nav a:hover {
 
 .img-friends {
     border-radius: 50%;
-    width: 120px;
-    height: 120px;
+    width: 200px;
 }
 
 .desc {
@@ -146,27 +124,15 @@ hr {
 }
 
 .communication-top {
-    background: url("https://user-images.githubusercontent.com/19169702/146886490-f13b2f69-b398-4565-acb9-5ef4f8cb267d.jpg") no-repeat center center fixed;
+    background: url("./image/iStock-1014903134-scaled.jpg") no-repeat center center fixed;
     margin: 50px 50px;
     
 }
 
-.search_para
-{
- color:grey;
+@media (max-width: 1200px) {
+    body {
+        background-color: lightgreen;
+    }
 }
-.highlight
-{
- color:blue;
- text-decoration:underline;
-}
-
-/* Use a media query to add a break point at 800px: */
-@media screen and (max-width: 800px) {
-  body {
-    background-color:lightgreen;
-  }
-}
-
   
 
